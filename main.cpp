@@ -66,7 +66,10 @@ int main()
         cout << "Incorrect data!" << endl;
 
     return 0;
+
     //21
+
+
     double x, y, r;
 
     cout << "Введіть x: ";
